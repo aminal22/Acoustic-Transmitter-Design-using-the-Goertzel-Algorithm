@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVersion value="6.2.0"/>
+	<deviceVariant value="TMS320C67XX.DSK6713"/>
+	<deviceFamily value="C6000"/>
+	<deviceEndianness value="little"/>
+	<codegenToolVersion value="7.4.18"/>
+	<isElfFormat value="false"/>
+	<connection value="common/targetdb/connections/SDDSKUSB_Connection.xml"/>
+	<rts value="libc.a"/>
+	<createSlaveProjects value=""/>
+	<templateProperties value="id=com.ti.common.project.core.emptyProjectWithMainTemplate,"/>
+	<filesToOpen value="main.c,"/>
+	<isTargetManual value="false"/>
+</projectOptions>
